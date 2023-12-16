@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Wubuntu-11
+Description=Wubuntu SDDM
+Author=Rafael Rachid
+Copyright=Copyright (C) 2023 Linuxfx Software
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.6
+Website=https://www.wubuntu.org/
+Screenshot=Previews/preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=support@wubuntu.org
+Theme-Id=wubuntu-11
+Theme-API=2.11

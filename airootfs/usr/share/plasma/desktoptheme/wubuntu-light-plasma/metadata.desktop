@@ -1,0 +1,22 @@
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=1.0
+saturation=2.0
+
+[Desktop Entry]
+Name=Wubuntu Light
+Comment=A Windows Ubuntu 11 style demo.
+X-KDE-PluginInfo-Author=rachid
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=support@wubuntu.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=wubuntu-light-plasma
+X-KDE-PluginInfo-Version=.1
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true

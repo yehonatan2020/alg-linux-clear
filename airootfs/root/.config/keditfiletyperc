@@ -1,0 +1,12 @@
+[KFileDialog Settings]
+Recent Files[$e]=ark,file:///usr/bin/ark
+Recent URLs[$e]=file:///usr/bin/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=557
+1920x1080 screen: Width=439
+
+[Open-with settings]
+CompletionMode=1
+History=/usr/bin/ark,ark,mpv

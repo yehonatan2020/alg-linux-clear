@@ -1,0 +1,14 @@
+[Qogir-dark-circle]
+ButtonSize=2
+
+[SpectrumLightHighlightFlat]
+ButtonSize=2
+
+[Win11OS-dark]
+ButtonSize=3
+
+[Win11OS-light]
+ButtonSize=2
+
+[WubuntuDark]
+ButtonSize=3

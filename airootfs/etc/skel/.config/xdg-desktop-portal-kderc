@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP DisplayPort-0 Height 1920x1080=626
+eDP DisplayPort-0 Width 1920x1080=978
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/newface,file:$HOME/Downloads/AQA-7401-7402-SP-2015.PDF,file:$HOME/Downloads/windows-ubuntu-11.4.3.upd1-copilot-win11-plasma-amd64.iso,file:$HOME/Downloads/Fat-Can-Save-Your-Life-50-Keto-Facts.pdf,file:$HOME/Downloads/proxmox-ve_8.1-1.iso,file:$HOME/Downloads/stx-2023.png,file:$HOME/Downloads/ffmpeg-6.1.tar.xz,file:$HOME/Downloads/thorium_mini_installer.exe,file:$HOME/Downloads/Thorium_117.0.5938.157.zip,file:$HOME/Downloads/Win11_23H2_EnglishInternational_x64.iso
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Pictures/
+detailViewIconSize=16

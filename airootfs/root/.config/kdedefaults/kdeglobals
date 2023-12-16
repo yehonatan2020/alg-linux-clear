@@ -1,0 +1,8 @@
+[General]
+ColorScheme=WubuntuDarkBlur
+
+[Icons]
+Theme=Win11
+
+[KDE]
+widgetStyle=kvantum

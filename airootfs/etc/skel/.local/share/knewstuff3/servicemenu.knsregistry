@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>Open Dolphin as root</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>loup</author>
+  <homepage>https://store.kde.org/p/1384645</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>68</rating>
+  <downloads>51723</downloads>
+  <installedfile>/home/yehudi/.local/share/servicemenu-download/open_as_root.desktop</installedfile>
+  <id>1384645</id>
+  <releasedate>2021-02-04</releasedate>
+  <summary>Now you can open the dolphin with root&lt;br />
+&lt;br />
+Works with kde5 plasma&lt;br />
+&lt;br />
+Attention: if you do not know what root is, then do not download this add-on !!&lt;br />
+&lt;br />
+Rate up to support the product&lt;br />
+&lt;br />
+&lt;br />
+How to install:&lt;br />
+- Dolphin -&amp;gt; Preferences -&amp;gt; Services...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/42/80/1384645/6fc092541a11c86ddf1d928f0e61301ec5a3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/42/80/1384645/6fc092541a11c86ddf1d928f0e61301ec5a3.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI0ODUwMDUiLCJvIjoiMSIsInMiOiJjNjIzZjBiNjY1MGVkZjA4ODdiZGNlNDA5MzhmNzU1OGUyMjYxZWFkNTc4ZmZlNTViZjQ2MjBhMTcyMTc2MGEwZmYzN2RkYTQ1ZmY0MjYwYjVhODFhNzYxZTU2ZWM1ZTZlNjdjMTU3NWU4NDEwYjNkMjg4MzlmNTdjMDE1NDMzYSIsInQiOjE2NjY1NzE0NzQsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjIwOC4xMjkifQ.qy1VXYsE-UetlEn4CTIq-P4OM0C5VrxPl6l6avDu2Hw/open_as_root.desktop</payload>
+  <tags>addon,root,as_root,lgplv3,dolpin,folder</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
